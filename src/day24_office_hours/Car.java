@@ -24,7 +24,6 @@ public class Car {
         System.out.println("Checking mirrors");
         System.out.println("Put a music on");
         System.out.println("Put on a navigation");
-        System.out.println("change something");
     }
 
     //Declare a method that starts the car
