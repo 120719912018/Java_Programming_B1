@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Car" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="day24_office_hours.Car" />
+    <module name="Java_Programming_B1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
